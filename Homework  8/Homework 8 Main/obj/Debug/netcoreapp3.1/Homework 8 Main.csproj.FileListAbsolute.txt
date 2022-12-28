@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.exe
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\bin\Debug\netcoreapp3.1\Homework 8 Main.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.dll
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Homework  8\Homework 8 Main\obj\Debug\netcoreapp3.1\Homework 8 Main.genruntimeconfig.cache
